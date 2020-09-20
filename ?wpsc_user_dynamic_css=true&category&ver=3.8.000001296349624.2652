@@ -1,0 +1,497 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+
+<head profile="http://gmpg.org/xfn/11">
+
+<title>SkeeNation - America&#039;s Premier Skeeball League — </title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" href="http://www.skeenation.com/wp-content/plugins/wp125/wp125.css" type="text/css" media="screen" />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.skeenation.com/wp-content/plugins/contact-form-7/styles.css?ver=2.4.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js?ver=3.0.4'></script>
+<script type='text/javascript' src='http://www.skeenation.com/wp-includes/js/jquery/jquery.js?ver=1.4.2'></script>
+<script type='text/javascript' src='http://www.skeenation.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.1.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.skeenation.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.skeenation.com/wp-includes/wlwmanifest.xml" /> 
+<!-- knxdt feedburner subscription widget v1.1 -->
+<link rel='stylesheet' href='http://www.skeenation.com/wp-content/plugins/feedburner-subscription-widget/style.css' type='text/css' />
+<!-- /knxdt feedburner subscription widget -->
+<script type="text/javascript">
+  swfobject.registerObject("wpFollowmeFlash", "9.0.0");
+</script>
+<style type="text/css">
+.getflash { font-size:8px; }
+.wp_followme_c2 {
+	position:fixed;
+	background:#59B7FF;
+	top:200px;
+	left:0px;
+	width:32px;
+	height:160px;
+	border:1px solid #FFFFFF;
+	color:#FFFFFF;
+}
+</style>
+
+
+<link rel="canonical" href="http://www.skeenation.com/" />
+
+<link rel="stylesheet" href="http://www.skeenation.com/wp-content/themes/thesis_16/style.css?110510-145246" type="text/css" media="screen, projection" />
+<link rel="stylesheet" href="http://www.skeenation.com/wp-content/themes/thesis_16/custom/layout.css?110510-160707" type="text/css" media="screen, projection" />
+<!--[if lte IE 7]><link rel="stylesheet" href="http://www.skeenation.com/wp-content/themes/thesis_16/lib/css/ie.css?110510-145214" type="text/css" media="screen, projection" /><![endif]-->
+<link rel="stylesheet" href="http://www.skeenation.com/wp-content/themes/thesis_16/custom/custom.css?110510-145008" type="text/css" media="screen, projection" />
+
+<link rel="alternate" type="application/rss+xml" title="SkeeNation - America&#039;s Premier Skeeball League RSS Feed" href="http://www.skeenation.com/feed/" />
+<link rel="pingback" href="http://www.skeenation.com/xmlrpc.php" /><!-- Google Analytics Tracking by Google Analyticator 6.1.1: http://ronaldheft.com/code/analyticator/ -->
+<script type="text/javascript">
+	var analyticsFileTypes = [''];
+	var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-12637100-1']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+
+<body class="custom">
+
+<div id="container">
+<div id="page">
+<ul class="menu">
+<li class="tab tab-home current"><a href="http://www.skeenation.com">Home</a></li>
+<li class="tab tab-1"><a href="http://www.skeenation.com/about-2/" title="About">About</a></li>
+<li class="tab tab-2"><a href="http://www.skeenation.com/cities/" title="SkeeNation Cities">SkeeNation Cities<!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class="submenu submenu-1">
+<li class="item item-1"><a href="http://www.skeenation.com/cities/charleston/" title="CHARLESTON">CHARLESTON<!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class="submenu submenu-2">
+<li class="item item-2"><a href="http://www.skeenation.com/cities/charleston/schedule/" title="Schedule">Schedule</a></li>
+<li class="item item-3"><a href="http://www.skeenation.com/cities/charleston/statistics/" title="Statistics">Statistics</a></li>
+<li class="item item-4"><a href="http://www.skeenation.com/cities/charleston/history/" title="History">History</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="item item-5"><a href="http://www.skeenation.com/cities/charlotte/" title="CHARLOTTE">CHARLOTTE<!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class="submenu submenu-2">
+<li class="item item-6"><a href="http://www.skeenation.com/cities/charlotte/schedule/" title="Schedule">Schedule </a></li>
+<li class="item item-7"><a href="http://www.skeenation.com/cities/charlotte/history/" title="History">History<!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class="submenu submenu-3">
+<li class="item item-8"><a href="http://www.skeenation.com/cities/charlotte/history/charlotte-skeeson-xii/" title="Charlotte - Skeeson XII">Charlotte - Skeeson XII</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="item item-9"><a href="http://www.skeenation.com/cities/charlotte/statistics/" title="Statistics">Statistics</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="item item-10"><a href="http://www.skeenation.com/cities/raleigh/" title="RALEIGH">RALEIGH<!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class="submenu submenu-2">
+<li class="item item-11"><a href="http://www.skeenation.com/cities/raleigh/schedule/" title="Schedule">Schedule</a></li>
+<li class="item item-12"><a href="http://www.skeenation.com/cities/raleigh/statistics/" title="Statistics">Statistics</a></li>
+<li class="item item-13"><a href="http://www.skeenation.com/cities/raleigh/history/" title="History">History<!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class="submenu submenu-3">
+<li class="item item-14"><a href="http://www.skeenation.com/cities/raleigh/history/raleigh-skeeson-i/" title="Raleigh Skeeson I">Raleigh Skeeson I</a></li>
+<li class="item item-15"><a href="http://www.skeenation.com/cities/raleigh/history/raleigh-skeeson-ii/" title="Raleigh Skeeson II">Raleigh Skeeson II</a></li>
+<li class="item item-16"><a href="http://www.skeenation.com/cities/raleigh/history/raleigh-skeeson-iii/" title="Raleigh Skeeson III">Raleigh Skeeson III</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="item item-17"><a href="http://www.skeenation.com/cities/gainesville/" title="Gainesville">Gainesville<!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class="submenu submenu-2">
+<li class="item item-18"><a href="http://www.skeenation.com/cities/gainesville/history/" title="History">History</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="item item-19"><a href="http://www.skeenation.com/cities/atlanta/" title="Atlanta">Atlanta<!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class="submenu submenu-2">
+<li class="item item-20"><a href="http://www.skeenation.com/cities/atlanta/history/" title="History">History</a></li>
+<li class="item item-21"><a href="http://www.skeenation.com/cities/atlanta/schedule/" title="Schedule">Schedule</a></li>
+<li class="item item-22"><a href="http://www.skeenation.com/cities/atlanta/statistics/" title="Statistics">Statistics</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="tab tab-3"><a href="http://www.skeenation.com/sponsors/" title="Sponsors">Sponsors</a></li>
+<li class="tab tab-4"><a href="http://www.skeenation.com/24-hour-skee-a-thon-fundraiser/" title="24 Hour Skee-A-Thon Fundraiser">24 Hour Skee-A-Thon Fundraiser<!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class="submenu submenu-1">
+<li class="item item-23"><a href="http://www.skeenation.com/24-hour-skee-a-thon-fundraiser/captains-and-themes/" title="Captains and Themes">Captains and Themes</a></li>
+<li class="item item-24"><a href="http://www.skeenation.com/24-hour-skee-a-thon-fundraiser/videos/" title="Videos">Videos</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="tab tab-5"><a href="http://www.skeenation.com/contact/" title="Contact">Contact</a></li>
+<li class="rss"><a href="http://www.skeenation.com/feed/" title="SkeeNation - America&#039;s Premier Skeeball League RSS Feed" rel="nofollow">Subscribe</a></li>
+</ul>
+	<div id="header">
+	</div>
+<div id="my-feature-box">
+			</div>	<div id="content_box">
+		<div id="content" class="hfeed">
+
+			<div class="post-3855 post type-post hentry category-charlotte-skeeball-league tag-charlotte-skeeball-league tag-makers-marksman tag-rolling-times tag-skeeson-xiv tag-stu tag-the-gambler post_box top" id="post-3855">
+				<div class="headline_area">
+					<h2 class="entry-title"><a href="http://www.skeenation.com/2011/makers-marksman-is-back-hasnt-lost-his-golden-touch/" rel="bookmark" title="Permanent link to Makers Marksman is back &#8212; hasn&#8217;t lost his golden touch!">Makers Marksman is back &#8212; hasn&#8217;t lost his golden touch!</a></h2>
+					<p class="headline_meta">by <span class="author vcard fn">Farrell</span> on <abbr class="published" title="2011-02-08">February 8, 2011</abbr></p>
+				</div>
+				<div class="format_text entry-content">
+<p><a href="http://www.skeenation.com/wp-content/uploads/2011/02/CLT-Rolling-Times-Vol-XIV-Issue-2-resized.jpg"><img class="aligncenter size-medium wp-image-3856" title="CLT Rolling Times Vol XIV Issue 2 resized" src="http://www.skeenation.com/wp-content/uploads/2011/02/CLT-Rolling-Times-Vol-XIV-Issue-2-resized-450x562.jpg" alt="" width="450" height="562" /></a></p>
+<p>Well guess what &#8211; Brandon &#8220;The Makers Marksman&#8221; Harris is coming back for another title run.  When we last saw the Marksman it was Skeeson XII,  he was playing with Pistol Petot and Steve-O on KFSkee, and they lost in the championships to A Boy Named Skee.  But watching him roll this past Wednesday, it was as if he hadn&#8217;t taken a day off from the lanes. He dominated both of the two on two tournaments, one with The Gambler as his skeemate and the other with Stu.  <a href="http://www.skeenation.com/2011/makers-marksman-is-back-hasnt-lost-his-golden-touch/#more-3855" class="more-link">[click to continue…]</a></p>
+<p class="to_comments"><span class="bracket">{</span> <a href="http://www.skeenation.com/2011/makers-marksman-is-back-hasnt-lost-his-golden-touch/#comments" rel="nofollow"><span>0</span> comments</a> <span class="bracket">}</span></p>
+				</div>
+			</div>
+
+			<div class="post-3849 post type-post hentry category-atlanta-skeeball-league tag-atlanta-skeeball-league tag-skeeson-i tag-the-kennesaw-kid tag-the-weather-report tag-the-weatherman post_box" id="post-3849">
+				<div class="headline_area">
+					<h2 class="entry-title"><a href="http://www.skeenation.com/2011/the-weekly-weather-report-2/" rel="bookmark" title="Permanent link to The Weekly Weather Report">The Weekly Weather Report</a></h2>
+					<p class="headline_meta">by <span class="author vcard fn">Kennesaw Kid</span> on <abbr class="published" title="2011-02-08">February 8, 2011</abbr></p>
+				</div>
+				<div class="format_text entry-content">
+<p style="text-align: center;"><a href="http://www.skeenation.com/wp-content/uploads/2011/02/164764_724484595133_23200385_40354574_8211919_n1.jpg"><img class="aligncenter size-medium wp-image-3836" title="164764_724484595133_23200385_40354574_8211919_n" src="http://www.skeenation.com/wp-content/uploads/2011/02/164764_724484595133_23200385_40354574_8211919_n1-450x562.jpg" alt="" width="450" height="562" /></a></p>
+<p>Ok guys it’s the last week of the regular skeeson and there are some teams on the bubble. Some of you can roll yourselves into the playoffs, but it will take some outstanding games, and a few teams are in danger of losing their spots so you will need to roll outstanding to ensure that you keep ahead of the game. Its been an enjoyable regular season, I’m sure most of you didn’t read any of this but for those of you that did I do appreciate it. Ill see y’all in the playoffs!!!
+<p><strong>Lane 1 at 8: The Moskeetos</strong>
+<p>They are rollin solo this week. Hope they have fun.
+<p><strong>Lane 2 at 8: Jon Benet Ramskee (-15) vs. The Babes in Skeeland</strong>
+<p>Jon Benet has been a little inconsistent this skeeson and the Babes have only gotten better as they have gone on. This match is tough for me to call but we will give it a shot anyways. Im gonna take Ramskees minus the points, but that is a 100% guess. It all depends on which ones show up to play. Cason of the Babes in Skeeland has planted herself firmly in the top ten, but then again Matt Ward is one of the premier rollers as well. It will be fun to watch so get there early, get good and drunk and verbally assault all involved.
+<p><strong>Lane 1 at 9: The Skeesome (-50) vs. The Kaminski Jewelers</strong>
+<p>As I said several weeks ago, I just don’t trust the Jewelers to come through at all with their inconsistent rolling. Im taking the Skeesome minus the points. I feel like they are gonna put a hurtin on the Jewelers, and can someone please tell Hotpocket to never, ever, ever wear those shorts in public again.
+<p><strong>Lane 2 at 9: The Pixskees (-20) vs. The Bourne Supremaskee</strong>
+<p>Mel rolled like a woman possessed last week and jumped over me and into the top five. There was just nothing I could do to keep up and she is the difference maker in this match. She is unstoppable on lane two and I look for her to continue her dominant play. Bourne has stepped up considerably since the first weeks but I just don’t think they have what it takes to cover this one. Take the Pixskees minus the points.
+<p><strong>Lane 1 at 10: The Knights who Say Skee (-40) vs. Octopuskee</strong>
+<p>The real match here is the Kennesaw Kid vs. The Superboy vs. me The Weatherman. Not to brag but the Kid and myself have rolled pretty identical matches for the past few weeks. Its kinda like were pushin each other to excel and we both really wanna beat the Superboy, this much I know for sure. The Kid has been trying desperately to reclaim his number one spot from Superboy and well he (Superboy) is my roommate so every time I get a chance to kick the sh*t outta him I try my best. Rumor has it the Knights are gonna try and hang up 950 for their final regular Skeeson match.
+<p><strong>Lane 2 at 10: The Exskeecutioners (-10) vs. Fantaskee Skeenoms</strong>
+<p>This should be the best match of the week. The number 3 roller vs. the number 4 roller. There should be some fireworks that come outta this match kids!!! Its really too close for me to call and all of the players are pretty evenly matched. Bearcat kinda took a dump last week so I’m expecting him to come out and redeem himself big time this week, and I think he will be the difference maker. Since I have to pick I’m take Exskee minus the points.</p>
+<p class="to_comments"><span class="bracket">{</span> <a href="http://www.skeenation.com/2011/the-weekly-weather-report-2/#comments" rel="nofollow"><span>0</span> comments</a> <span class="bracket">}</span></p>
+				</div>
+			</div>
+
+			<div class="post-3845 post type-post hentry category-atlanta-skeeball-league tag-atlanta-skeeball-league tag-jon-brown tag-jonny-rocket tag-rolling-times tag-skeeson-i tag-the-mothership post_box" id="post-3845">
+				<div class="headline_area">
+					<h2 class="entry-title"><a href="http://www.skeenation.com/2011/connie-rolls-in-honor-of-jonny-rocket/" rel="bookmark" title="Permanent link to Connie rolls in honor of Jonny Rocket">Connie rolls in honor of Jonny Rocket</a></h2>
+					<p class="headline_meta">by <span class="author vcard fn">Kennesaw Kid</span> on <abbr class="published" title="2011-02-07">February 7, 2011</abbr></p>
+				</div>
+				<div class="format_text entry-content">
+<p><a href="http://www.skeenation.com/wp-content/uploads/2011/02/ATL-Rolling-Times-Vol-I-Issue-12-resized.jpg"><img class="aligncenter size-medium wp-image-3848" title="ATL Rolling Times Vol I Issue 12 resized" src="http://www.skeenation.com/wp-content/uploads/2011/02/ATL-Rolling-Times-Vol-I-Issue-12-resized-450x562.jpg" alt="" width="450" height="562" /></a></p>
+<p>The Brown Family, (neighbors to the Boyd Family), have lived in Princeton Mill ever since Jon Brown and Andrew Boyd were babies. Growing up, Jon and Andrew did everything together and were very close. Jon passed away August 2nd 2009 and yet in his short life touched so many. Jon is very busy in his after-life being everyone&#8217;s strength and Guardian Angel. We all miss him and wish him a Happy 26th Birthday today!</p>
+<p>Connie Brown joined the Atlanta Skeeball League&#8217;s  first skeeson, I think knowing that if Jon were with us today he would have played. Jon was always a competitive athlete and would have been in the running for MVSkee (quote me on that). Jon was always a Mama&#8217;s Boy and loved Connie so much it showed when he became an Uncle to his older brother and sister&#8217;s children. Jon always had his strong independence and was all about speed which soon led to his nickname, &#8216;Jonny Rocket&#8217;. Today Connie rolls for fun and to honor her youngest son Jon Alan Brown.On his birthday Feb. 7th I am honored to reveal her new nickname in the League&#8230; Connie &#8216;Mothership&#8217; Brown. Connie has been rolling very well this skeeson and we are all lucky to have her in the League!</p>
+<p class="to_comments"><span class="bracket">{</span> <a href="http://www.skeenation.com/2011/connie-rolls-in-honor-of-jonny-rocket/#comments" rel="nofollow"><span>0</span> comments</a> <span class="bracket">}</span></p>
+				</div>
+			</div>
+
+			<div class="post-3838 post type-post hentry category-atlanta-skeeball-league tag-80s-night tag-atlanta-skeeball-league tag-rolling-times tag-skeeson-i post_box" id="post-3838">
+				<div class="headline_area">
+					<h2 class="entry-title"><a href="http://www.skeenation.com/2011/80s-night-success/" rel="bookmark" title="Permanent link to 80&#8242;s Night = Success">80&#8242;s Night = Success</a></h2>
+					<p class="headline_meta">by <span class="author vcard fn">Kennesaw Kid</span> on <abbr class="published" title="2011-02-07">February 7, 2011</abbr></p>
+				</div>
+				<div class="format_text entry-content">
+<p><a href="http://www.skeenation.com/wp-content/uploads/2011/02/ATL-Rolling-Times-Vol-I-Issue-11-resized.jpg"><img class="aligncenter size-medium wp-image-3847" title="ATL Rolling Times Vol I Issue 11 resized" src="http://www.skeenation.com/wp-content/uploads/2011/02/ATL-Rolling-Times-Vol-I-Issue-11-resized-450x562.jpg" alt="" width="450" height="562" /></a></p>
+<p>That&#8217;s right SkeeNation Community &#8211; Atlanta voted on a theme night for Week 7 and 80&#8242;s Aerobic Night WON!</p>
+<p>It was a fun week with teams ready to duke it out against one another not only on the lanes but in their best 80&#8242;s gear! Allison &#8216;Assassin&#8217; Kretovic rocked the Jorts (Jean Shorts) while Chris &#8216;The Ladies Man&#8217; Childs rocked a Wind Breaker outfit.  The ExSkeecutioners were dressed with Spandex and wigs while the PixSkees brought out a girlfriend by the name of Ashley Barbeau who was the perfect 80&#8242;s hottie to cheer on her girls.  Babes in Skeeland vs MoSkeetoes where Larry Boyd was the guy surrounded by all the women. Everyone was rocking their Style and everyone was rolling like Champs from the 80&#8242;s. Hot Pocket may not have earned the cover this week but he certainly got everyone to remember him by busting out his short shorts and Chicago Bears 80&#8242;s gear and then he capped it off by stretching and lunging all over the bar making 80&#8242;s night a complete success!</p>
+<p class="to_comments"><span class="bracket">{</span> <a href="http://www.skeenation.com/2011/80s-night-success/#comments" rel="nofollow"><span>0</span> comments</a> <span class="bracket">}</span></p>
+				</div>
+			</div>
+
+			<div class="post-3833 post type-post hentry category-atlanta-skeeball-league tag-atlanta-skeeball-league tag-the-weather-report tag-the-weatherman post_box" id="post-3833">
+				<div class="headline_area">
+					<h2 class="entry-title"><a href="http://www.skeenation.com/2011/the-atlanta-weekly-weather-report/" rel="bookmark" title="Permanent link to The Atlanta Weekly Weather Report">The Atlanta Weekly Weather Report</a></h2>
+					<p class="headline_meta">by <span class="author vcard fn">Kennesaw Kid</span> on <abbr class="published" title="2011-02-01">February 1, 2011</abbr></p>
+				</div>
+				<div class="format_text entry-content">
+<p style="text-align: center;"><a href="http://www.skeenation.com/wp-content/uploads/2011/02/164764_724484595133_23200385_40354574_8211919_n1.jpg"><img class="aligncenter size-medium wp-image-3836" title="164764_724484595133_23200385_40354574_8211919_n" src="http://www.skeenation.com/wp-content/uploads/2011/02/164764_724484595133_23200385_40354574_8211919_n1-450x562.jpg" alt="" width="450" height="562" /></a></p>
+<p style="text-align: left;"><strong><em> </em></strong></p>
+<p><strong><em></p>
+<div id="_mcePaste"><span style="font-style: normal;">Week 7 Forecast</span></div>
+<div><span style="font-style: normal;"><br />
+</span></div>
+<div id="_mcePaste"><span style="font-weight: normal;">[Editor's Note: The Weatherman has been extremely accurate with his predictions. However this week I see out of my Magic Wooden Skeeball an upset or two........ ]</span></div>
+<div><span style="font-weight: normal;"><br />
+</span></div>
+<div id="_mcePaste"><span style="font-style: normal;"><span style="font-weight: normal;">Sorry for the brief report I was out for the week with the flu and the creative juices just aren’t flowing like they normally do. </span></span></div>
+<div><span style="font-style: normal;"><span style="font-weight: normal;"><br />
+</span></span></div>
+<div id="_mcePaste"><span style="font-style: normal;">Lane 1 at 8 Octopus-Skee</span></div>
+<div><span style="font-style: normal;"><br />
+</span></div>
+<div id="_mcePaste"><span style="font-style: normal;"><span style="font-weight: normal;">Rolling Solo tonight, lets see how the Superboy does without any pressure…could be huge!!!</span></span></div>
+<div><span style="font-style: normal;"><span style="font-weight: normal;"><br />
+</span></span></div>
+<div id="_mcePaste"><span style="font-style: normal;">Lane 2 at 8 Moskeetos vs. Babes in Skeeland (-45)</span></div>
+<div><span style="font-style: normal;"><br />
+</span></div>
+<div id="_mcePaste"><span style="font-style: normal;"><span style="font-weight: normal;">The Moskeetos are looking stronger every week but the Babes in Skeeland jumped out and became a team that has started to shake things up. Ill take the Babes minus the points.</span></span></div>
+<div><span style="font-style: normal;"><span style="font-weight: normal;"><br />
+</span></span></div>
+<div id="_mcePaste"><span style="font-style: normal;">Lane 1 at 9 Kaminskee Jewelers vs. Jon Benet Ramskee (-60)</span></div>
+<div><span style="font-style: normal;"><br />
+</span></div>
+<div id="_mcePaste"><span style="font-style: normal;"><span style="font-weight: normal;">I still think its too much of a risk to pick the Jewelers to cover and Ramskee has proven that they have what it takes to be a premier team in the Atlanta league. I would take Ramskee minus the points. At least the Jewelers are out there having some fun though. Wonder with two weeks left who will be the Skeeson I Hundo Champ?</span></span></div>
+<div><span style="font-style: normal;"><span style="font-weight: normal;"><br />
+</span></span></div>
+<div id="_mcePaste"><span style="font-style: normal;">Lane 2 at 9 Knights Who Say Skee (-65) vs. Pixskees</span></div>
+<div><span style="font-style: normal;"><br />
+</span></div>
+<div id="_mcePaste"><span style="font-style: normal;"><span style="font-weight: normal;">This should be another great match. The Pixskees are the only team that’s left in the Knights gauntlet like schedule. Does Mel and her girls have what it takes to knock the number one team down a notch or two.  Will The Kennesaw Kid find a way to make up some ground on Superboy? It’s going to be an interesting week. As a win could seal the #1 seed for the Knights come Playoffs.</span></span></div>
+<div><span style="font-style: normal;"><span style="font-weight: normal;"><br />
+</span></span></div>
+<div id="_mcePaste"><span style="font-style: normal;">Lane 1 at 10 Bourne Supremaskee Vs Fantaskee Skeenoms (-20)</span></div>
+<div><span style="font-style: normal;"><br />
+</span></div>
+<div id="_mcePaste"><span style="font-style: normal;"><span style="font-weight: normal;">This looks to be the match of the week. Fantaskee has fallen a notch or two since their great start at the beginning of the season and Bourne has definitely elevated their play quite a bit. I’m calling an upset. The skeenoms are still reeling from the thumping that the Knights put on them last week, and it’s the perfect time for Bourne to get in there and make the loss turn into a 2 game losing streak. Bourne covers and wins.</span></span></div>
+<div><span style="font-style: normal;"><span style="font-weight: normal;"><br />
+</span></span></div>
+<div id="_mcePaste"><span style="font-style: normal;">Lane 2 at 10 Exskeesecutioners (-100) vs. The Skeesome</span></div>
+<div><span style="font-style: normal;"><span style="font-weight: normal;"><br />
+</span></span></div>
+<div id="_mcePaste"><span style="font-style: normal;"><span style="font-weight: normal;">Bearcat seems to be rolling as good as ever and he is out to smash every spread. His team isn’t far behind him but he is definitely the leading scorer.  I look for this one to get out of hand. Sorry Skeesome but Exskee minus the points.</span></span></div>
+<p><span style="font-style: normal; font-weight: normal;"><br />
+</span></em></strong></p>
+<p class="to_comments"><span class="bracket">{</span> <a href="http://www.skeenation.com/2011/the-atlanta-weekly-weather-report/#comments" rel="nofollow"><span>4</span> comments</a> <span class="bracket">}</span></p>
+				</div>
+			</div>
+
+			<div class="post-3831 post type-post hentry category-charlotte-skeeball-league tag-charlotte-skeeball-league tag-free-skee tag-free-skee-tourney tag-polly tag-rolling-times tag-rowdy-roddy tag-skeeson-xiv post_box" id="post-3831">
+				<div class="headline_area">
+					<h2 class="entry-title"><a href="http://www.skeenation.com/2011/skeeson-xiv-getting-ready-to-kick-off-sign-up-now/" rel="bookmark" title="Permanent link to Skeeson XIV getting ready to kick off &#8212; sign up now!">Skeeson XIV getting ready to kick off &#8212; sign up now!</a></h2>
+					<p class="headline_meta">by <span class="author vcard fn">Farrell</span> on <abbr class="published" title="2011-02-01">February 1, 2011</abbr></p>
+				</div>
+				<div class="format_text entry-content">
+<p><a href="http://www.skeenation.com/wp-content/uploads/2011/02/CLT-Rolling-Times-Vol-XIV-Issue-1-resized.jpg"><img class="aligncenter size-medium wp-image-3832" title="CLT Rolling Times Vol XIV Issue 1 resized" src="http://www.skeenation.com/wp-content/uploads/2011/02/CLT-Rolling-Times-Vol-XIV-Issue-1-resized-450x562.jpg" alt="" width="450" height="562" /></a></p>
+<p>Well well well, what do we have here?  Ah yes, it&#8217;s Rowdy Roddy once again dominating the skeeball lanes.  But this time he took a rookie with him to the promised land&#8230;.and not once, but twice!  Roddy and rookie Polly were paired up for the free skee tourney last week and the vengeful vet taught the naive newbie a few tricks of the trade as they picked off their opponents one by one (two by two?)</p>
+<p>With only a few weeks left until the Skeeson XIV kickoff, who has Roddy decided to play with?  Can he finally claim a Chalice?  Is Brandon &#8220;The Makers Marksman&#8221; coming out of retirement (again)?  Is this the skeeson that Amethyst, Katrina, and Koko finally dominate the lanes on Super Saturday?  Is Johnny V bringing back the biker vests and the Sons of Anarskee? Are Toolman, The Mad Potter, and Candyman reuniting to take another shot at the title (and give Potter the first ever three-peat?)  So many questions.  So many tacos to eat.  See ya at Loco Lime for Taco Tuesday tonight!</p>
+<p class="to_comments"><span class="bracket">{</span> <a href="http://www.skeenation.com/2011/skeeson-xiv-getting-ready-to-kick-off-sign-up-now/#comments" rel="nofollow"><span>0</span> comments</a> <span class="bracket">}</span></p>
+				</div>
+			</div>
+
+			<div class="teasers_box">
+
+			<div class="post-3783 post type-post hentry category-atlanta-skeeball-league tag-atlanta-skeeball-league tag-bluskee tag-knights-who-say-skee tag-rolling-times tag-skeeson-i tag-the-kennesaw-kid tag-the-knights-who-say-skee tag-the-weatherman teaser" id="post-3783">
+<h2 class="entry-title"><a href="http://www.skeenation.com/2011/the-knights-being-knighted-1st/" rel="bookmark" title="Permanent link to The Knights being Knighted 1st">The Knights being Knighted 1st</a></h2>
+<abbr class="teaser_date published" title="2011-02-01">February 1, 2011</abbr>
+
+				<div class="format_teaser entry-content">
+<p>The Knights have pushed the bar again after breaking the 900+ barrier in just week 2. They break the previous record of 907 with a score of 915 two weeks in a row! The Knights are looking like they are now the team to beat as they go 6-0 in Skeeson play. Scott &#8220;The Weatherman&#8221; [...]</p>
+				</div>
+<a class="teaser_link" href="http://www.skeenation.com/2011/the-knights-being-knighted-1st/" rel="nofollow">Read the full article →</a>
+			</div>
+
+			<div class="post-3817 post type-post hentry category-atlanta-skeeball-league tag-atlanta-skeeball-league tag-bearcat tag-exskeesecutioners tag-rolling-times tag-skeeson-i tag-the-exskeecutioners teaser teaser_right" id="post-3817">
+<h2 class="entry-title"><a href="http://www.skeenation.com/2011/look-out-knights-the-exskeecutioners-find-their-shot/" rel="bookmark" title="Permanent link to Look Out Knights&#8230; The ExSkeecutioners Find Their Shot!">Look Out Knights&#8230; The ExSkeecutioners Find Their Shot!</a></h2>
+<abbr class="teaser_date published" title="2011-02-01">February 1, 2011</abbr>
+
+				<div class="format_teaser entry-content">
+<p>Ok Knights Who Say Skee you have hogged the spotlight for far too long. The ExSkeecutioners have now jumped over the Skee E O&#8217;s favorite team FantaSkee Skeenoms into 2nd place. They also surpassed the 900 barrier in week 6. The team is looking stronger then ever and now has their eyes set on winning the [...]</p>
+				</div>
+<a class="teaser_link" href="http://www.skeenation.com/2011/look-out-knights-the-exskeecutioners-find-their-shot/" rel="nofollow">Read the full article →</a>
+			</div>
+
+			</div>
+
+			<div class="prev_next">
+				<p class="previous"><a href="http://www.skeenation.com/page/2/?wpsc_user_dynamic_css=true&#038;category&#038;ver=3.8.000001296349624.2652" >&larr; Previous Entries</a></p>
+			</div>
+
+		</div>
+
+		<div id="sidebars">
+			<div id="multimedia_box" class="image_box">
+				<div id="image_box">
+<img class="four_by_three" src="http://www.skeenation.com/wp-content/themes/thesis_16/custom/rotator/Raleigh Skeeson II Champs - Margaskeeta Man.jpg" alt="Raleigh Skeeson II Champs - Margaskeeta Man.jpg" />
+				</div>
+			</div>
+<div id="wp125adwrap_2c">
+<div class="wp125ad odd"><a href="index.php?adclick=3" title="Budweiser" rel="nofollow"><img src="http://www.skeenation.com/wp-content/uploads/2010/03/Budweiser-ad-copy.jpg" alt="Budweiser" /></a></div>
+<div class="wp125ad even"><a href="index.php?adclick=1" title="Stella Artois" rel="nofollow"><img src="http://www.skeenation.com/wp-content/uploads/2010/03/Stella-Ad-copy.jpg" alt="Stella Artois" /></a></div>
+<div class="wp125ad odd"><a href="index.php?adclick=2" title="Bud Light" rel="nofollow"><img src="http://www.skeenation.com/wp-content/uploads/2010/03/Bud-Light-copy.jpg" alt="Bud Light" /></a></div>
+</div>
+			<div id="sidebar_1" class="sidebar">
+				<ul class="sidebar_list">
+<li class="widget widget_pages" id="pages-3"><h3>Skeeball Pages</h3>		<ul>
+			<li class="page_item page-item-3710"><a href="http://www.skeenation.com/24-hour-skee-a-thon-fundraiser/" title="24 Hour Skee-A-Thon Fundraiser">24 Hour Skee-A-Thon Fundraiser</a>
+<ul class='children'>
+	<li class="page_item page-item-3731"><a href="http://www.skeenation.com/24-hour-skee-a-thon-fundraiser/captains-and-themes/" title="Captains and Themes">Captains and Themes</a></li>
+	<li class="page_item page-item-3748"><a href="http://www.skeenation.com/24-hour-skee-a-thon-fundraiser/videos/" title="Videos">Videos</a></li>
+</ul>
+</li>
+<li class="page_item page-item-694"><a href="http://www.skeenation.com/about-2/" title="About">About</a>
+<ul class='children'>
+	<li class="page_item page-item-3261"><a href="http://www.skeenation.com/about-2/history-of-skeeball-team-names/" title="History of Skeeball Team Names">History of Skeeball Team Names</a></li>
+</ul>
+</li>
+<li class="page_item page-item-3840"><a href="http://www.skeenation.com/contact/" title="Contact">Contact</a></li>
+<li class="page_item page-item-3786"><a href="http://www.skeenation.com/photos-2/" title="Photos">Photos</a></li>
+<li class="page_item page-item-3787"><a href="http://www.skeenation.com/products-page/" title="Products Page">Products Page</a>
+<ul class='children'>
+	<li class="page_item page-item-3788"><a href="http://www.skeenation.com/products-page/checkout/" title="Checkout">Checkout</a></li>
+	<li class="page_item page-item-3789"><a href="http://www.skeenation.com/products-page/transaction-results/" title="Transaction Results">Transaction Results</a></li>
+	<li class="page_item page-item-3790"><a href="http://www.skeenation.com/products-page/your-account/" title="Your Account">Your Account</a></li>
+</ul>
+</li>
+<li class="page_item page-item-3348"><a href="http://www.skeenation.com/cities/" title="SkeeNation Cities">SkeeNation Cities</a>
+<ul class='children'>
+	<li class="page_item page-item-3052"><a href="http://www.skeenation.com/cities/atlanta/" title="Atlanta">Atlanta</a>
+	<ul class='children'>
+		<li class="page_item page-item-3054"><a href="http://www.skeenation.com/cities/atlanta/history/" title="History">History</a></li>
+		<li class="page_item page-item-3659"><a href="http://www.skeenation.com/cities/atlanta/schedule/" title="Schedule">Schedule</a></li>
+		<li class="page_item page-item-3696"><a href="http://www.skeenation.com/cities/atlanta/statistics/" title="Statistics">Statistics</a></li>
+	</ul>
+</li>
+	<li class="page_item page-item-2744"><a href="http://www.skeenation.com/cities/gainesville/" title="Gainesville">Gainesville</a>
+	<ul class='children'>
+		<li class="page_item page-item-3050"><a href="http://www.skeenation.com/cities/gainesville/history/" title="History">History</a></li>
+	</ul>
+</li>
+	<li class="page_item page-item-1119"><a href="http://www.skeenation.com/cities/raleigh/" title="RALEIGH">RALEIGH</a>
+	<ul class='children'>
+		<li class="page_item page-item-1101"><a href="http://www.skeenation.com/cities/raleigh/history/" title="History">History</a>
+		<ul class='children'>
+			<li class="page_item page-item-2096"><a href="http://www.skeenation.com/cities/raleigh/history/raleigh-skeeson-i/" title="Raleigh Skeeson I">Raleigh Skeeson I</a></li>
+			<li class="page_item page-item-3022"><a href="http://www.skeenation.com/cities/raleigh/history/raleigh-skeeson-ii/" title="Raleigh Skeeson II">Raleigh Skeeson II</a></li>
+			<li class="page_item page-item-3056"><a href="http://www.skeenation.com/cities/raleigh/history/raleigh-skeeson-iii/" title="Raleigh Skeeson III">Raleigh Skeeson III</a></li>
+		</ul>
+</li>
+		<li class="page_item page-item-27"><a href="http://www.skeenation.com/cities/raleigh/schedule/" title="Schedule">Schedule</a></li>
+		<li class="page_item page-item-1099"><a href="http://www.skeenation.com/cities/raleigh/statistics/" title="Statistics">Statistics</a></li>
+	</ul>
+</li>
+	<li class="page_item page-item-19"><a href="http://www.skeenation.com/cities/charlotte/" title="CHARLOTTE">CHARLOTTE</a>
+	<ul class='children'>
+		<li class="page_item page-item-35"><a href="http://www.skeenation.com/cities/charlotte/history/" title="History">History</a>
+		<ul class='children'>
+			<li class="page_item page-item-3182"><a href="http://www.skeenation.com/cities/charlotte/history/charlotte-skeeson-xii/" title="Charlotte &#8211; Skeeson XII">Charlotte &#8211; Skeeson XII</a></li>
+		</ul>
+</li>
+		<li class="page_item page-item-1117"><a href="http://www.skeenation.com/cities/charlotte/schedule/" title="Schedule">Schedule</a></li>
+		<li class="page_item page-item-2482"><a href="http://www.skeenation.com/cities/charlotte/special-offers/" title="Special Offers">Special Offers</a></li>
+		<li class="page_item page-item-1091"><a href="http://www.skeenation.com/cities/charlotte/statistics/" title="Statistics">Statistics</a></li>
+	</ul>
+</li>
+	<li class="page_item page-item-1118"><a href="http://www.skeenation.com/cities/charleston/" title="CHARLESTON">CHARLESTON</a>
+	<ul class='children'>
+		<li class="page_item page-item-3049"><a href="http://www.skeenation.com/cities/charleston/history/" title="History">History</a></li>
+		<li class="page_item page-item-1698"><a href="http://www.skeenation.com/cities/charleston/schedule/" title="Schedule">Schedule</a></li>
+		<li class="page_item page-item-1700"><a href="http://www.skeenation.com/cities/charleston/statistics/" title="Statistics">Statistics</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="page_item page-item-9"><a href="http://www.skeenation.com/sponsors/" title="Sponsors">Sponsors</a></li>
+		</ul>
+		</li><li class="widget widget_text" id="text-3"><h3>Recent Smack Talk</h3>			<div class="textwidget"><div id="recentcomments" class="dsq-widget"><h2 class="dsq-widget-title">Recent Comments</h2><script type="text/javascript" src="http://disqus.com/forums/skeenation/recent_comments_widget.js?num_items=5&hide_avatars=0&avatar_size=32&excerpt_length=200"></script></div></div>
+		</li><li class="widget widget_text" id="text-4">			<div class="textwidget"><form style="border:1px solid #ccc;padding:3px;text-align:center;" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=Skeenation', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Enter your email address & get SkeeNation updates by E-mail:</p><p><input type="text" style="width:140px" name="email"/></p><input type="hidden" value="Skeenation" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" value="Subscribe" /></form></div>
+		</li>				</ul>
+			</div>
+			<div id="sidebar_2" class="sidebar">
+				<ul class="sidebar_list">
+<li class="widget widget_text" id="text-5"><h3>SkeeNation Poll</h3>			<div class="textwidget"><script type='text/javascript' language='javascript' charset='utf-8' src='http://s3.polldaddy.com/p/4426215.js'></script><noscript> <a href='http://answers.polldaddy.com/poll/4426215/'>View Poll</a></noscript></div>
+		</li><li class="widget widget_text" id="text-6"><h3>Biggest Mouth</h3>			<div class="textwidget"><div id="topcommenters" class="dsq-widget"><h2 class="dsq-widget-title">Top Commenters</h2><script type="text/javascript" src="http://skeenation.disqus.com/top_commenters_widget.js?num_items=5&hide_mods=0&hide_avatars=0&avatar_size=32"></script></div></div>
+		</li><li class="widget widget_tag_cloud" id="tag_cloud-3"><h3>Tags</h3><div><a href='http://www.skeenation.com/tag/a-boy-named-skee/' class='tag-link-18' title='4 topics' style='font-size: 8pt;'>A Boy Named Skee</a>
+<a href='http://www.skeenation.com/tag/atlanta-skeeball-league/' class='tag-link-3' title='23 topics' style='font-size: 14.263157894737pt;'>Atlanta Skeeball League</a>
+<a href='http://www.skeenation.com/tag/brian-the-candyman-fudge/' class='tag-link-68' title='4 topics' style='font-size: 8pt;'>Brian "The Candyman" Fudge</a>
+<a href='http://www.skeenation.com/tag/burgundys-picks/' class='tag-link-73' title='17 topics' style='font-size: 13.157894736842pt;'>Burgundy's picks</a>
+<a href='http://www.skeenation.com/tag/champions-chalice/' class='tag-link-82' title='8 topics' style='font-size: 10.302631578947pt;'>champions chalice</a>
+<a href='http://www.skeenation.com/tag/charleston-skeeball-league/' class='tag-link-83' title='35 topics' style='font-size: 15.921052631579pt;'>charleston skeeball league</a>
+<a href='http://www.skeenation.com/tag/charlotte-skeeball-league/' class='tag-link-86' title='131 topics' style='font-size: 21.078947368421pt;'>Charlotte Skeeball League</a>
+<a href='http://www.skeenation.com/tag/chase-for-the-champions-chalice/' class='tag-link-87' title='5 topics' style='font-size: 8.7368421052632pt;'>Chase for the Champions Chalice</a>
+<a href='http://www.skeenation.com/tag/ct/' class='tag-link-107' title='5 topics' style='font-size: 8.7368421052632pt;'>CT</a>
+<a href='http://www.skeenation.com/tag/el-duke/' class='tag-link-124' title='6 topics' style='font-size: 9.3815789473684pt;'>El Duke</a>
+<a href='http://www.skeenation.com/tag/final-countdown/' class='tag-link-130' title='6 topics' style='font-size: 9.3815789473684pt;'>Final Countdown</a>
+<a href='http://www.skeenation.com/tag/free-skee/' class='tag-link-134' title='5 topics' style='font-size: 8.7368421052632pt;'>Free Skee</a>
+<a href='http://www.skeenation.com/tag/full-50/' class='tag-link-137' title='6 topics' style='font-size: 9.3815789473684pt;'>Full 50</a>
+<a href='http://www.skeenation.com/tag/full-50-club/' class='tag-link-138' title='5 topics' style='font-size: 8.7368421052632pt;'>Full 50 Club</a>
+<a href='http://www.skeenation.com/tag/gatskee-gambles/' class='tag-link-142' title='13 topics' style='font-size: 12.144736842105pt;'>Gatskee Gambles</a>
+<a href='http://www.skeenation.com/tag/great-gatskee/' class='tag-link-150' title='15 topics' style='font-size: 12.605263157895pt;'>Great Gatskee</a>
+<a href='http://www.skeenation.com/tag/great-gatskee-gambles/' class='tag-link-151' title='12 topics' style='font-size: 11.776315789474pt;'>Great Gatskee Gambles</a>
+<a href='http://www.skeenation.com/tag/h-town/' class='tag-link-153' title='12 topics' style='font-size: 11.776315789474pt;'>H-Town</a>
+<a href='http://www.skeenation.com/tag/h-towns-skeeball-countdown/' class='tag-link-154' title='8 topics' style='font-size: 10.302631578947pt;'>H-Town's skeeball countdown</a>
+<a href='http://www.skeenation.com/tag/high-rollers-report/' class='tag-link-165' title='8 topics' style='font-size: 10.302631578947pt;'>High Rollers Report</a>
+<a href='http://www.skeenation.com/tag/high-rollers-tournament/' class='tag-link-166' title='5 topics' style='font-size: 8.7368421052632pt;'>High Rollers Tournament</a>
+<a href='http://www.skeenation.com/tag/hot-links/' class='tag-link-171' title='11 topics' style='font-size: 11.5pt;'>Hot Links</a>
+<a href='http://www.skeenation.com/tag/kevin-the-gambler-ambler/' class='tag-link-207' title='5 topics' style='font-size: 8.7368421052632pt;'>Kevin "The Gambler" Ambler</a>
+<a href='http://www.skeenation.com/tag/makers-marksman/' class='tag-link-227' title='11 topics' style='font-size: 11.5pt;'>Makers Marksman</a>
+<a href='http://www.skeenation.com/tag/mr-burgundy/' class='tag-link-243' title='15 topics' style='font-size: 12.605263157895pt;'>Mr. Burgundy</a>
+<a href='http://www.skeenation.com/tag/playoffs/' class='tag-link-280' title='14 topics' style='font-size: 12.421052631579pt;'>playoffs</a>
+<a href='http://www.skeenation.com/tag/pre-skeeson-rankings/' class='tag-link-285' title='8 topics' style='font-size: 10.302631578947pt;'>Pre-skeeson rankings</a>
+<a href='http://www.skeenation.com/tag/raleigh-skeeball-league/' class='tag-link-293' title='116 topics' style='font-size: 20.618421052632pt;'>Raleigh Skeeball League</a>
+<a href='http://www.skeenation.com/tag/rolling-times/' class='tag-link-299' title='165 topics' style='font-size: 22pt;'>Rolling Times</a>
+<a href='http://www.skeenation.com/tag/rowdy-roddy/' class='tag-link-303' title='5 topics' style='font-size: 8.7368421052632pt;'>Rowdy Roddy</a>
+<a href='http://www.skeenation.com/tag/skeeball/' class='tag-link-333' title='66 topics' style='font-size: 18.407894736842pt;'>skeeball</a>
+<a href='http://www.skeenation.com/tag/skeeball-countdown/' class='tag-link-338' title='18 topics' style='font-size: 13.342105263158pt;'>Skeeball Countdown</a>
+<a href='http://www.skeenation.com/tag/skeeson-i/' class='tag-link-362' title='27 topics' style='font-size: 14.907894736842pt;'>Skeeson I</a>
+<a href='http://www.skeenation.com/tag/skeeson-ii/' class='tag-link-363' title='8 topics' style='font-size: 10.302631578947pt;'>Skeeson II</a>
+<a href='http://www.skeenation.com/tag/skeeson-iii/' class='tag-link-364' title='43 topics' style='font-size: 16.657894736842pt;'>Skeeson III</a>
+<a href='http://www.skeenation.com/tag/skeeson-iv/' class='tag-link-365' title='26 topics' style='font-size: 14.723684210526pt;'>Skeeson IV</a>
+<a href='http://www.skeenation.com/tag/skeeson-v/' class='tag-link-367' title='32 topics' style='font-size: 15.552631578947pt;'>Skeeson V</a>
+<a href='http://www.skeenation.com/tag/skeeson-vi/' class='tag-link-369' title='19 topics' style='font-size: 13.526315789474pt;'>Skeeson VI</a>
+<a href='http://www.skeenation.com/tag/skeeson-xii/' class='tag-link-372' title='32 topics' style='font-size: 15.552631578947pt;'>Skeeson XII</a>
+<a href='http://www.skeenation.com/tag/skeeson-xiii/' class='tag-link-373' title='26 topics' style='font-size: 14.723684210526pt;'>Skeeson XIII</a>
+<a href='http://www.skeenation.com/tag/the-gambler/' class='tag-link-419' title='5 topics' style='font-size: 8.7368421052632pt;'>The Gambler</a>
+<a href='http://www.skeenation.com/tag/the-kennesaw-kid/' class='tag-link-420' title='6 topics' style='font-size: 9.3815789473684pt;'>The Kennesaw Kid</a>
+<a href='http://www.skeenation.com/tag/the-tim-skeebows/' class='tag-link-427' title='6 topics' style='font-size: 9.3815789473684pt;'>The Tim Skeebows</a>
+<a href='http://www.skeenation.com/tag/the-weatherman/' class='tag-link-541' title='11 topics' style='font-size: 11.5pt;'>The Weatherman</a>
+<a href='http://www.skeenation.com/tag/wonderboy/' class='tag-link-466' title='10 topics' style='font-size: 11.131578947368pt;'>WonderBoy</a></div>
+</li><li class="widget widget_links" id="linkcat-504"><h3>SkeeFans</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.evankroberts.com" title="Evan added his own link here" target="_blank">Evan</a></li>
+
+	</ul>
+</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div id="footer">
+		<p><a href="http://www.skeenation.com/wp-admin/">WordPress Admin</a></p>
+<script type='text/javascript' src='http://www.skeenation.com/wp-content/plugins/contact-form-7/jquery.form.js?ver=2.52'></script>
+<script type='text/javascript' src='http://www.skeenation.com/wp-content/plugins/contact-form-7/scripts.js?ver=2.4.3'></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+		var s = document.createElement("script"); s.type = "text/javascript"; s.src = "http://intensedebate.com/js/wordpressTemplateLinkWrapper2.php?acct=2eef9c08b7ffca226cefe7d8dfd2e121"; document.getElementsByTagName("head")[0].appendChild(s);
+		/* ]]> */
+		</script>
+	</div>
+</div>
+</div>
+
+<div style="position:relative;">
+  <div class="wp_followme_c2">
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="32" height="160" id="wpFollowmeFlash">
+      <param name="movie" value="http://www.skeenation.com/wp-content/plugins/wp-followme/flash/wp_followme.swf" />
+      <param name="allowfullscreen" value="false" />
+      <param name="allowscriptaccess" value="always" />
+      <param name="flashvars" value="twit_icon=http://skeenation.com/wp-content/plugins/wp-followme/icons/4.png&amp;turl=http://www.twitter.com/skeenation&amp;twitmsg=Follow Me&amp;twitmsgcolor=FFFFFF&amp;iconbgcolor=FFFFFF" />
+      <param name="bgcolor" value="#59B7FF" />
+      <!--[if !IE]>-->
+      <object type="application/x-shockwave-flash" data="http://www.skeenation.com/wp-content/plugins/wp-followme/flash/wp_followme.swf" width="32" height="160">
+        <param name="allowfullscreen" value="false" />
+        <param name="allowscriptaccess" value="always" />
+        <param name="flashvars" value="twit_icon=http://skeenation.com/wp-content/plugins/wp-followme/icons/4.png&amp;turl=http://www.twitter.com/skeenation&amp;twitmsg=Follow Me&amp;twitmsgcolor=FFFFFF&amp;iconbgcolor=FFFFFF" />
+        <param name="bgcolor" value="#59B7FF" />
+        <!--<![endif]-->
+		<div class="getflash">
+         <a rel="nofollow" href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" /></a>Plugin by wpburn.com <a href="http://wpburn.com">wordpress themes</a></div><!--[if !IE]>-->
+      </object> <!--<![endif]-->
+    </object>
+  </div>
+</div>
+
+
+
